@@ -7,7 +7,7 @@
 - [《软件需求规格说明书》 ](01-01-SRS.md)
 - [《软件设计说明书》](01-02-SDS.md)
 - [《使用说明（演示视频）》](http://tiandiyijian.top/2019/06/23/swsad-video/)
-- 所有源代码
+- [所有源代码](https://github.com/SSASGroup)
   - [小程序代码](https://github.com/SSASGroup/client/tree/master/miniprogram-test-v3)
   - [后端代码](https://github.com/SSASGroup/client/tree/master/server)
 - [《安装部署说明》](01-03-setup.md)
