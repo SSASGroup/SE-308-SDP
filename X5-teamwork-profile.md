@@ -41,7 +41,7 @@
 
 
 ### Back-End-Go
-![](image/backgo.png)
+![](image/backgo.PNG)
 
 
 ## 综合贡献度分配  
