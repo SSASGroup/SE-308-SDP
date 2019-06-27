@@ -12,3 +12,7 @@
   - [后端代码](https://github.com/SSASGroup/client/tree/master/server)
 - [《安装部署说明》](01-03-setup.md)
 - [《小组分工与贡献率说明》](X5-teamwork-profile.md)
+
+    
+    
+此外，点击 https://ssasgroup.github.io/Dashboard/ 可查看本项目所有文档
